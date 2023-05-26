@@ -1,0 +1,1 @@
+seconds -= timeInSeconds[arr[unit]]
